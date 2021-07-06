@@ -18,7 +18,8 @@
 </tbody>
 </table> -->
 
-![](https://github-readme-stats.vercel.app/api?username=coldmanck&count_private=true&show_icons=true&hide_rank=false&hide_border=true&include_all_commits=true&theme=default)![](https://github-readme-stats.vercel.app/api/top-langs/?username=coldmanck&hide=cuda,c%2B%2B&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=coldmanck&count_private=true&show_icons=true&hide_rank=false&hide_border=true&include_all_commits=true&theme=default)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coldmanck&hide=cuda,c%2B%2B&layout=compact&hide_border=true) -->
 
 <!--
 **coldmanck/coldmanck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

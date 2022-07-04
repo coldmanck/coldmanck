@@ -1,6 +1,6 @@
 ### Here is Meng-Jiun Chiou!
 
-- :mortar_board: Status: Fifth-year computer science PhD candidate at NUS
+- :briefcase: Status: Computer Vision Applied Scientist at Amazon
 - :sparkles: Research Interest: Computer Vision, Machine Learning with current focus on Scene Graph Generation
 - :heartbeat: Enjoy: Cycling along river banks, coding with a mug of freshly-brewed iced latte
 
